@@ -1,0 +1,75 @@
+{
+  "tables": {
+    "plans": [
+      "plan",
+      "node",
+      "village",
+      "trigger",
+      "observe",
+      "fallback",
+      "path"
+    ],
+    "checks": [
+      "check",
+      "exercise",
+      "node",
+      "version",
+      "mode",
+      "affected",
+      "observed",
+      "state",
+      "day"
+    ],
+    "revisions": [
+      "id",
+      "record",
+      "reported_day",
+      "field",
+      "value"
+    ],
+    "exercises": [
+      "exercise",
+      "plan",
+      "district",
+      "mode",
+      "fold"
+    ],
+    "observations": [
+      "record",
+      "exercise",
+      "node",
+      "observer",
+      "observability",
+      "phenomenon",
+      "signal_ident"
+    ],
+    "replays": [
+      "check",
+      "exercise",
+      "observed_mode",
+      "covered_nodes",
+      "completeness",
+      "day"
+    ]
+  },
+  "references": [
+    [
+      "observations",
+      "exercise",
+      "exercises",
+      "exercise"
+    ],
+    [
+      "replays",
+      "check",
+      "checks",
+      "check"
+    ],
+    [
+      "revisions",
+      "record",
+      "observations",
+      "record"
+    ]
+  ]
+}

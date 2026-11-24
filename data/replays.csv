@@ -1,0 +1,5 @@
+check,exercise,observed_mode,covered_nodes,completeness,day
+C1,E039,grid_power,N1|N2,failed_observer,5
+C2,E040,grid_power,N1|N2,complete,5
+C3,E041,roster_stale,N3|N4,complete,5
+C4,E042,clock_reset,N3|N4,complete,5

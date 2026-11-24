@@ -1,0 +1,5 @@
+check,exercise,node,version,mode,affected,observed,state,day
+C1,E039,N1,V2,grid_power,T1|T2,dispatcher,closed,3
+C2,E040,N2,V2,grid_power,T1|T2,station|dispatcher,proposed,4
+C3,E041,N3,V2,roster_stale,T3,walker,proposed,5
+C4,E042,N4,V2,clock_reset,T3,station,proposed,5

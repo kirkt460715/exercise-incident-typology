@@ -1,0 +1,9 @@
+plan,node,village,trigger,observe,fallback,path
+V1,N1,T1,grid_power,dispatcher,manual,FEED1
+V1,N2,T2,grid_power,dispatcher,radio,FEED1
+V1,N3,T3,roster_stale,walker,update,FEED2
+V1,N4,T3,clock_reset,station,radio,FEED2
+V2,N1,T1,grid_power,station,manual,FEED3
+V2,N2,T2,grid_power,dispatcher,radio,FEED1
+V2,N3,T3,roster_stale,walker,update,FEED2
+V2,N4,T3,clock_reset,station,manual,FEED3
