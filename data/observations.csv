@@ -199,10 +199,10 @@ E038-N1-0,E038,N1,dispatcher,known,handled,E038-N1
 E038-N2-0,E038,N2,dispatcher,unknown,,E038-N2
 E038-N3-0,E038,N3,walker,known,handled,E038-N3
 E038-N4-0,E038,N4,station,known,handled,E038-N4
-E039-N1-0,E039,N1,dispatcher,known,silent,E039-N1
-E039-N1-1,E039,N1,transcript,known,silent,E039-N1
-E039-N2-0,E039,N2,dispatcher,known,late,E039-N2
-E039-N2-1,E039,N2,transcript,known,late,E039-N2
+E039-N1-0,E039,N1,dispatcher,known,silent,E039-shared
+E039-N1-1,E039,N1,transcript,known,silent,E039-shared
+E039-N2-0,E039,N2,dispatcher,known,late,E039-shared
+E039-N2-1,E039,N2,transcript,known,late,E039-shared
 E039-N3-0,E039,N3,walker,unknown,,E039-N3
 E039-N3-1,E039,N3,transcript,unknown,,E039-N3
 E039-N4-0,E039,N4,station,known,relay_reset,E039-N4
