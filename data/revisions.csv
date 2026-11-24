@@ -1,4 +1,4 @@
 id,record,reported_day,field,value
 U1,E039-N1-0,6,phenomenon,silent
-U2,E039-N2-0,6,signal,independent
+U2,E039-N2-0,6,signal_ident,E039-independent
 U3,E040-N2-0,8,observability,unknown
